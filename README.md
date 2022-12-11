@@ -13,6 +13,7 @@ Checklist for setting up a new computer
 - [Slack Desktop](https://slack.com/intl/en-gb/downloads/mac)
 - [Notion](https://www.notion.so/desktop)
 - [Homebrew](https://brew.sh/)
+  - `brew install gh` for the Github CLI
 - [Things](https://apps.apple.com/us/app/things-3/id904237743)
 - [Spotify](https://www.spotify.com/us/download/other/)
 - [FNM](https://github.com/Schniz/fnm) for Node version management
