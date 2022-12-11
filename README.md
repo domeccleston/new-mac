@@ -6,6 +6,7 @@ Checklist for setting up a new computer
 - [NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm/)
 - Type `git` to trigger a download of XCode
 - [VSCode](https://code.visualstudio.com/)
+  - Enable autosave
   - Extensions: Github Theme, Markdown All In One
 - [oh-my-zsh](https://ohmyz.sh/)
 - [iTerm2](https://iterm2.com/)
