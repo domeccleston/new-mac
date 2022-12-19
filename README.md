@@ -19,3 +19,4 @@ Checklist for setting up a new computer
 - [Spotify](https://www.spotify.com/us/download/other/)
 - [FNM](https://github.com/Schniz/fnm) for Node version management
 - [PNPM](https://pnpm.io/installation) for fast package management 
+- [Add a default screenshots folder](https://gist.github.com/domeccleston/dc1a16af4cacba5107fa61ec77125739) to avoid a messy desktop
